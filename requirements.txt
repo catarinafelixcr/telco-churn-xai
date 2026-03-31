@@ -6,6 +6,7 @@ scipy
 # Visualisation
 matplotlib
 seaborn
+plotly
 
 # Machine Learning
 scikit-learn
